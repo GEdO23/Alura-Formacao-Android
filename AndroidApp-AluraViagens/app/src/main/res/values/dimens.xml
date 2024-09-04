@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tamanho_txt_xxl">24sp</dimen>
+    <dimen name="tamanho_txt_xl">20sp</dimen>
+    <dimen name="tamanho_txt_lg">18sp</dimen>
+    <dimen name="tamanho_txt_md">16sp</dimen>
+    <dimen name="tamanho_txt_sm">14sp</dimen>
+</resources>
